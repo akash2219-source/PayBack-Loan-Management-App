@@ -1,0 +1,6 @@
+{
+  "name": "PayBack — Loan Management App",
+  "description": "Android mobile loan and borrowing management app with Collateral & Pawn asset vault, Daily Pigmy field collection with dynamic UPI QR, loan restructuring, moratorium EMI holidays, penalty waivers, waterfall repayments, and encrypted PIN security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
